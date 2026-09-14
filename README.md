@@ -1,11 +1,11 @@
 # Prince of Persia 1 — Port (C++/SDL2)
-<img width="952" height="614" alt="sh" src="https://github.com/user-attachments/assets/9f5e4295-f482-414f-bcd9-a1544169d8ff" />
 
 A reimplementation of the original *Prince of Persia* movement engine in **C++/SDL2**.
 It runs the original game loop (sequence table at 12 Hz, physics at 60 fps, tile-based
 collision) but **does not include any game assets**: you must copy the required `.DAT`
 files from your own legal copy of the game.
 
+<img width="952" height="614" alt="sh" src="https://github.com/user-attachments/assets/9f5e4295-f482-414f-bcd9-a1544169d8ff" />
 ## Required assets
 
 Place these files inside `data/` (the program also looks in `prince/`):
