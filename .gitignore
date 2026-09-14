@@ -1,0 +1,18 @@
+# Assets originales de Prince of Persia - NO redistribuir
+prince/
+data/KID.DAT
+data/LEVELS.DAT
+data/levels/
+data/*.DAT
+
+# Ejecutables y librerias de la build
+*.exe
+*.o
+*.obj
+SDL2.dll
+
+# Logs, dumps y caché
+*.log
+render_dump.bmp
+render_dump.png
+__pycache__/
