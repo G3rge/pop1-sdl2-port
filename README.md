@@ -1,3 +1,4 @@
+<img width="952" height="614" alt="sh" src="https://github.com/user-attachments/assets/9f5e4295-f482-414f-bcd9-a1544169d8ff" />
 # Prince of Persia 1 — Port (C++/SDL2)
 
 A reimplementation of the original *Prince of Persia* movement engine in **C++/SDL2**.
